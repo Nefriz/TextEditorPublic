@@ -1,0 +1,195 @@
+
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Create account
+Log in
+
+Personal tools
+Contents hide
+(Top)
+History
+Toggle History subsection
+Genesis
+"Russian Woodpecker"
+NATO Reporting Name
+Civilian identification
+Jamming the Woodpecker
+Signal disappearance
+Locations
+Media appearances
+See also
+References
+Further reading
+External links
+Duga radar
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+(Redirected from Duga-1)
+Map all coordinates using OpenStreetMap
+Download coordinates as:
+
+
+The array at Chernobyl, Ukraine, viewed from a distance in 2014
+
+Duga-1 array within the Chernobyl Exclusion Zone. The array of pairs of cylindrical/conical cages on the right are the active elements, fed at the facing points with a form of ladder line suspended from stand-off platforms at top right. A backplane axial reflector of small wires is visible left of center, most clearly at the bottom of the image. The elements appear to be a modified type of cage or bi-conical dipole providing wide operating bandwidth.
+Duga (Russian: Дуга́, lit. 'arc' or 'curve') was an over-the-horizon radar (OTH) system used in the Soviet Union as part of its early-warning radar network for missile defense. It operated from July 1976 to December 1989. Two operational duga radars were deployed, with one near Chernobyl and Chernihiv in the Ukrainian SSR (present-day Ukraine), and the other in eastern Siberia (present-day Russia).
+
+The duga system was extremely powerful, reaching over 10 MW, and emitted in the shortwave radio bands. It was given the nickname Russian Woodpecker by shortwave listeners for its emissions randomly appearing and sounding like sharp, repetitive tapping noises at a frequency of 10 Hz.[1] The random frequency hops often disrupted legitimate broadcasts, amateur radio operations, oceanic, commercial, aviation communications, and utility transmissions, resulting in thousands of complaints by many countries worldwide. The signal became such a nuisance that some communications receivers began including "Woodpecker Blankers" in their circuit designs.[2]
+
+The unclaimed signal was a source of speculation, giving rise to theories such as Soviet brainwashing and weather modification experiments. However, because of its distinctive transmission pattern, many experts and amateur radio hobbyists realized it was an over-the-horizon radar system. NATO military intelligence had already given it the reporting name STEEL WORK or STEEL YARD, based on the massive size of the antenna, which spanned 700 metres (2,300 ft) in length and 150 metres (490 ft) in height.[3] This massive structure formed a phased array and was necessary in order to provide high gain at HF as well as facilitating beam-steering, though it is unconfirmed whether the latter was actually used in normal operation. While the amateur radio community was well aware of the system, the OTH theory was not publicly confirmed until after the dissolution of the Soviet Union.
+
+History
+Genesis
+The Soviets had been working on early-warning radar for their anti-ballistic missile systems through the 1960s, but most of these had been line-of-sight systems that were useful for rapid analysis and interception only. None of these systems had the capability to provide early warning of a launch, within seconds or minutes of a launch, which would give the defences time to study the attack and plan a response. At the time, the Soviet early warning satellite network was not well developed. An over-the-horizon radar sited in the USSR would help solve this problem, and work on such a system for this associated role started in the late 1960s.
+
+The first experimental system, Duga, was built outside Mykolaiv in Ukraine, successfully detecting rocket launches from Baikonur Cosmodrome at 2,500 kilometres (1,600 mi). This was followed by the prototype Duga, built on the same site, which was able to track launches from the far east and submarines in the Pacific Ocean as the missiles flew towards Novaya Zemlya. Both of these radar systems were aimed east and were fairly low power, but with the concept proven, work began on an operational system. The new Duga-1 systems, built in 1972, used a transmitter and receiver separated by about 60 kilometres (37 mi).[4][5]
+
+
+Woodpecker
+Duration: 22 seconds.0:22
+Woodpecker on shortwave radio interfering with WWVH, November 2, 1984. Near the middle a voice can be heard giving the time 1:27 UTC.
+Problems playing this file? See media help.
+Duga radar is located in UkraineDuga-1 receiverDuga-1 receiverDuga-1 transmitterDuga-1 transmitterDuga transmitterDuga transmitterDuga receiverDuga receiver
+Locations of Duga and Duga-1 systems in Ukraine
+"Russian Woodpecker"
+At some point in 1976, a new and powerful radio signal was detected simultaneously worldwide, and quickly dubbed 'the Woodpecker' by amateur radio operators. Transmission power on some Woodpecker transmitters was estimated to be as high as 10 MW equivalent isotropically radiated power.[6][7] Even prior to 1976, a similar 'woodpecker' interference is remembered by radio amateurs occurring in the high frequencies. As early as 1963, or before, radio amateurs were calling this "the Russian Woodpecker".[8] Little is known about the power levels or Russian designation but it was probably a forerunner of the Duga radar systems. It was also speculated at that time, at least among radio amateurs, that this was an over-the-horizon radar.
+
+These signals even caused interference on 27 MHz CB radios in the late 60s and early 70s sometimes completely blocking even local communications in Portugal for example, leading to the supposition of several megawatts of RF power transmission.[citation needed]
+
+Triangulation by amateur radio hobbyists and NATO showed the signals came from a location in present-day Ukraine, at the time called the Ukrainian Soviet Socialist Republic (part of the USSR). Confusion due to small differences in the reports being made from various sources led to the site being variously located near Kyiv, Minsk, Chernobyl, Gomel or Chernihiv. All of these reports were describing the same deployment, with the transmitter only a few kilometers southwest of Chernobyl (south of Minsk, northwest of Kyiv) and the receiver about 50 kilometres (31 mi) northeast of Chernobyl (just west of Chernihiv, south of Gomel). At one time there was speculation that several transmitters were in use.[6]
+
+The radar system was given the code 5Н32-West by the Soviets, and was set up in two closed towns, Liubech-1 held the two transmitters and Chernobyl-2 the receivers.[7] Unknown to civilian observers at the time, NATO was aware of the new installation.[citation needed] A second installation was built near Komsomolsk-on-Amur, in Bolshya Kartel and Lian, but did not become active for some time.
+
+NATO Reporting Name
+The NATO reporting name for the Duga-1 is often quoted as STEEL YARD. Many online and several print references use this name. However some sources also use the term STEEL WORK (or STEEL WORKS). As any "official" sources using NATO Reporting Names are likely to be classified, establishing the true name will be difficult. The earliest found open source mention of a NATO Reporting Name for this system, a reference publication in print while the system was still active, unambiguously uses the term STEEL WORK.[9][page needed] Jane's Information Group is an often quoted open source reference for information across several military fields and subjects. Their "Jane's Radar and Electronic Warfare Systems", several editions over a number of years, uses the term "Steel Works".[10][11][12]
+
+Civilian identification
+Even from the earliest reports it was suspected that the signals were tests of an over-the-horizon radar,[6] and this remained the most popular hypothesis during the Cold War. Several other theories were floated as well, including everything from jamming western broadcasts to submarine communications. The broadcast jamming theory was discarded early on when a monitoring survey showed that Radio Moscow and other pro-Soviet stations were just as badly affected by woodpecker interference as Western stations.
+
+As more information about the signal became available, its purpose as a radar signal became increasingly obvious. In particular, its signal contained a clearly recognizable structure in each BPSK modulated pulse, which was eventually identified as a 31-bit pseudo-random binary sequence with properties much like Barker codes, with a bit-width of 100 μs resulting in a 3.1 ms pulse.[13] The auto-correlation of this pulse/sequence results in a single 100 μs pulse 31 times the amplitude of the received sequence, giving a resolution of 15 kilometres (9.3 mi) (the distance light travels in 50 μs) and process gain of almost 30 dB. This system took advantage of pulse compression to increase the power of the received echoes thereby increasing the sensitivity and effective range. When a second Woodpecker appeared, located in eastern Russia, but also pointed toward the US and covering blank spots in the first system's pattern, this conclusion became inescapable. These further installations allowed for more precise pin-pointing of potential targets or missiles in multiple dimensions thanks in part to the properties of the Barker codes that allow for multiple radars operating on the same frequencies without significant interference.
+
+In 1988, the U.S. Federal Communications Commission (FCC) conducted a study on the Woodpecker signal. Data analysis showed a pulse repetition interval (PRI) of about 90 ms, a frequency range of 7 to 19 MHz, a bandwidth of 0.02 to 0.8 MHz, and typical transmission time of 7 minutes.
+
+The pulses transmitted by the Woodpecker had a wide bandwidth, typically 40 kHz. Their repetition frequencies were 10 Hz, 16 Hz and 20 Hz with the most common frequency of 10 Hz, while the 16 Hz and 20 Hz modes were rarely used.
+
+Jamming the Woodpecker
+
+Steel structure of Duga-1 from below
+To combat this interference, amateur radio operators attempted to jam the signal by transmitting synchronized unmodulated continuous wave signals at the same pulse rate as the offending signal. They formed a club called The Russian Woodpecker Hunting Club.[14]
+
+Signal disappearance
+Starting in the late 1980s, even as the FCC was publishing studies, the signals became less frequent, and in 1989, they disappeared. Although the reasons for the eventual shutdown of the Duga systems have not been made public, the changing strategic balance with the end of the Cold War in the late 1980s may have had a part to play. Another factor perhaps was the success of the US-KS early-warning satellites, which began entering service in the early 1980s, and by this time had grown into a complete network. The satellite system provides immediate, direct and highly secure warnings, whereas any radar-based system is subject to jamming, and the effectiveness of OTH systems is also subject to atmospheric conditions.
+
+According to some reports, the Komsomolsk-on-Amur installation in the Russian Far East was taken off combat alert duty in November 1989, and some of its equipment was subsequently scrapped. The original Duga-1 site lies within the 30 kilometres (19 mi) Zone of Alienation around the Chernobyl power plant. As of today, the radar appears permanently deactivated and will not likely receive future maintenance because such arrangements were not implemented within Russian and Ukrainian talks; with regards to the Dnepr early warning radar systems at Mukachevo and Sevastopol, most of the antenna still stands and is often used by radio amateurs who visit the area using their own portable radio equipment.
+
+Locations
+Duga radar is located in Khabarovsk KraiTransmitterTransmitterReceiverReceiver
+Location of Duga-2 in Khabarovsk Krai
+
+Panoramic view of the landscape surrounding Duga-1. The Chernobyl Nuclear Power Plant is visible in the far left, close to the horizon.
+The original Duga was the first experimental system.[15][16] It was built outside the Black Sea port of Mykolaiv in southern Ukraine, and successfully detected rocket launches from Baikonur Cosmodrome about 2,500 kilometres (1,600 mi) away. Duga is able to track launches from the Far East and from submarines in the Pacific Ocean, as the missiles fly towards Novaya Zemlya in the Arctic Ocean. This huge radar complex was restored in 2002 after a fire seriously damaged it. The transmitter was located at 46°48′26″N 32°13′12″E and the receiver at 47°02′28.33″N 32°11′57.29″E. It appears[according to whom?] that the original Duga transmit and receive sites near Mykolaiv, Ukraine were demolished in 2006.
+
+The original Duga was supplanted by a pair of installations: western, Duga-1, and eastern, Duga-2. Duga-1 was built in northern Ukraine, between Liubech and Chernobyl-2. The receiver is located at 51°18′19.06″N 30°03′57.35″E, 12 kilometers west-north-west of Chernobyl; the transmitter is located at 51°38′15.98″N 30°42′10.41″E about 50 kilometres (31 mi) northeast of Chernobyl (just west of Chernihiv, south of Gomel).
+
+Duga-2, the eastern system, is located near Komsomolsk-on-Amur in Khabarovsk Krai, with the receiver at 50°23′07.98″N 137°19′41.87″E, some 30 kilometres (19 mi) southeast of the city, and the transmitter at 50°53′34.66″N 136°50′12.38″E, 45 kilometres (28 mi) north of the city.
+
+Media appearances
+The Ukrainian-developed computer game series S.T.A.L.K.E.R. has a plot focused on the Chernobyl Nuclear Power Plant and the nuclear accident there. The game features many actual locations in the area, including the Duga-1 array. The array itself appears in S.T.A.L.K.E.R.: Clear Sky in the fictional city of Limansk-13. While the 'Brain Scorcher' from S.T.A.L.K.E.R.: Shadow of Chernobyl was inspired by theories that Duga-1 was used for mind control, it does not take the form of the real array.
+
+Markiyan Kamysh's 2015 book Stalking the Atomic City: Life Among the Decadent and the Depraved of Chornobyl depicts illegal trips to the Chernobyl Exclusion Zone, including to the Duga, and was praised by reviewers as the most interesting literature debut of the year in Ukraine. The novel has since been translated into French (2016), Italian (2019), and English (2022).
+
+In Call of Duty: Black Ops, the map "Grid" is placed in Pripyat near the Duga-1 array. A game later in the series, Cold War, uses the duga as location for a possible final mission and as a map in the Zombies game-mode “Outbreak”, the map being appropriately named "Duga". The said map has rappel lines that can take the player(s) up to the top or middle of the Duga, despite the actual radar array lacking this.
+
+The Duga antenna array is also featured on the revised map "Verdansk '84" in the game Call of Duty: Warzone.
+
+The 'Russian woodpecker' appears in Justin Scott's novel The Shipkiller.
+
+The Duga at Chernobyl was the focus of the 2015 documentary film, The Russian Woodpecker, by Chad Gracia. The film includes interviews with the commander of the duga, Vladimir Musiets, as well as the Vice-Commander, the Head of the Data Center, and others involved in building and operating the radar. The documentary, which won numerous awards, also includes drone video footage of the array and handheld video footage of the surroundings as well as a climb to the top by the cinematographer, Artem Ryzhykov. The film also proposes a conspiracy theory that the Chernobyl disaster was engineered to cover up failures in the radar's design.[17]
+
+The Duga radar is featured in the drone racing simulator Liftoff, as "The Russian Woodpecker".[18]
+
+The Duga radar is also featured in the films of the Divergent series, where it was used as the giant wall and fence surrounding the main city. In wide shots, its structure was used to create computer-generated imagery of the superstructure and several close-up scenes were shot directly at its location.
+
+A Duga radar is featured in the 2017 game Player Unknown's Battlegrounds in a map which portrays a fictional Russian Military base.
+
+The Chernobyl DLC for the game Spintires features a representation of the sarcophagus and an antenna array similar in appearance to Duga.
+
+The Duga radar is heavily featured in the virtual reality game Proze: Enlightenment, a suspense/puzzle game with the theory that the radar is being used by mind controlling experiments during the 1950-60s. The game actually starts with the player ascending one of the pylons on a maintenance lift.[19]
+
+A Duga radar is featured in the 2019 video game Chernobylite.[20]
+
+In episode 12 of the first season of the NBC science fiction series Debris, the Duga radar array makes an appearance as a fictional array in the state of Virginia.
+
+The Chernobyl Duga site is featured in the Science Channel series "Mysteries of the Abandoned" (season 1, episode 1).[21]
+
+At the end of the first S.T.A.L.K.E.R. 2: Heart of Chornobyl gameplay trailer, a Duga radar made an appearance.[22]
+
+See also
+Cobra Mist
+Jindalee Operational Radar Network, a similar Australian system.
+Numbers station
+The Buzzer
+Container (29B6) radar, new Russian OTH Radar with similar radio interference to the Duga.
+References
+ David L. Wilson (Summer 1985). "The "Russian" (sic) Woodpecker... A Closer Look". Monitoring Times. Archived from the original on 8 April 2019. Retrieved 8 April 2019.
+ "americanradiohistory.com" (PDF). Archived (PDF) from the original on 11 July 2021. Retrieved 11 April 2020.
+ "cnn.com". CNN. Archived from the original on 27 June 2020. Retrieved 27 June 2020.
+ Bukharin, Oleg; et al. (2001). Pavel Podvig (ed.). Russian Strategic Nuclear Forces. Cambridge, Massachusetts: MIT Press.
+ Pavlo Fedykovych (March 2019). "Duga radar: Enormous abandoned antenna hidden in forests near Chernobyl". CNN. Archived from the original on 17 April 2021. Retrieved 17 April 2021.
+ "Mystery Soviet over-the-horizon tests". Wireless World: 53. February 1977. Archived from the original on 8 April 2019. Retrieved 8 April 2019.
+ Nazaryan, Alexander (18 April 2014). "The Massive Russian Radar Site in the Chernobyl Exclusion Zone". Newsweek. Archived from the original on 12 October 2019. Retrieved 20 November 2015.
+ Piliounis, Ioannis (12 February 2017). "A nightmare for HAM Radio operators: The "Russian Woodpecker"". Retrieved 23 February 2022.
+ The International Countermeasures Handbook, 14th Edition. Englewood, Colorado, USA: Cardiff Publishing. 1989.
+ Janes Radar and Electronic Warfare Systems, 1993-94. Coulsdon, Surrey, UK: Jane's Data Division. 1994. p. 44.
+ Janes Radar and Electronic Warfare Systems, 1994-95. Coulsdon, Surrey, UK: Jane's Data Division. 1995. p. 50.
+ Janes Radar and Electronic Warfare Systems, 1995-96. Coulsdon, Surrey, UK: Jane's Data Division. 1996. p. 54.
+ J.P. Martinez (April 1982). "Letter from J. P. Martinez". Wireless World: 89. Archived from the original on 8 April 2019. Retrieved 8 April 2019.
+ Dave Finley (7 July 1982). "Radio hams do battle with 'Russian Woodpecker' Some hams informally attempted to jam the woodpecker by tapping a microphone with a pencil emulating the woodpecker's signal while transmitting on the ham voice subbands". The Miami Herald. Archived from the original on 25 February 2019. Retrieved 15 June 2007.
+ John Pike. "Steel Yard OTH". GlobalSecurity.org. Archived from the original on 12 January 2003. Retrieved 8 April 2010.
+ A. Karpenko Nevsky Bastion (1999). "ABM AND SPACE DEFENSE" (4): 2–47. {{cite journal}}: Cite journal requires |journal= (help)
+ "The Russian Woodpecker". The Russian Woodpecker. Archived from the original on 8 November 2020. Retrieved 15 April 2015.
+ "Update 127 released". Lift-off game. 19 February 2020.
+ "PROZE VR Game". Archived from the original on 28 November 2020. Retrieved 4 February 2020.
+ "Chernobylite on Steam". store.steampowered.com. Archived from the original on 30 November 2020. Retrieved 21 November 2020.
+ "Nazi Ghost Town", discovery.com
+ S.T.A.L.K.E.R. 2: Heart of Chernobyl — Gameplay Trailer, retrieved 15 January 2023
+Further reading
+Headrick, James M. (1 July 1990). "Looking over the horizon (HF radar)". IEEE Spectrum. 27 (7): 36–39. doi:10.1109/6.58421. S2CID 40523127.
+Headrick, James M.; Skolnik, Merrill I. (1 January 1974). "Over-the-Horizon radar in the HF band". Proceedings of the IEEE. 62 (6): 664–673. doi:10.1109/PROC.1974.9506. S2CID 32258331.
+Headrick, James M., Ch. 24: "HF over-the-horizon radar," in: Radar Handbook, 2nd ed., Merrill I. Skolnik, ed. [New York: McGraw-Hill, 1990].
+Kosolov, A. A., ed. Over-the-Horizon Radar (translated by W. F. Barton) [ Norton, Mass.: Artech House, 1987].
+John Pike. "Steel Yard OTH". GlobalSecurity.org. Retrieved 8 April 2010.
+External links
+
+Wikimedia Commons has media related to Duga-1 radar.
+Chernobyl-2. Secret Military Facility in the territory of exclusion zone. Text and photos Archived 28 August 2009 at the Wayback Machine 2008
+OTH-Radar "Chornobyl - 2" and Center of space-communication
+"Circle" is an auxiliary system for OTH-Radar "Chornobyl - 2"
+The Russian Woodpecker, Miami Herald, July 1982.
+Steel Yard OTH, globalsecurity.org
+Some pictures of Chernobyl-2
+'Duga' photos at englishrussia.com
+Chernobyl-2
+The Top Secret Military Base Hidden in Chernobyl’s Irradiated Forest
+Obsidian Urbex Photography | Photos taken in 2016
+vte
+Chernobyl disaster
+vte
+Russian and former Soviet military designation sequences for radar, missile and rocket systems
+vte
+Soviet and Russian long range military radars
+Categories: Cold War broadcastingCold War history of the Soviet UnionAmateur radio historyInternational broadcastingSoviet military radars1976 establishments in the Soviet Union1989 disestablishments in the Soviet UnionScience and technology in the Soviet UnionOver-the-horizon radarsMilitary equipment introduced in the 1970sMilitary installations established in 1976Military installations closed in 1989
+This page was last edited on 22 May 2024, at 17:41 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki
+Toggle limited content width
